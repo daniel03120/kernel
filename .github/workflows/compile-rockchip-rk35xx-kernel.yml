@@ -13,7 +13,7 @@ on:
       kernel_source:
         description: "Select the kernel source"
         required: false
-        default: "daniel03120/linux-6.1.y-rockchip"
+        default: "daniel03120/linux-5.10.y-rk35xx"
         type: choice
         options:
           - unifreq/linux-6.1.y-rockchip
